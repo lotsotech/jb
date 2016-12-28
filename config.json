@@ -27,7 +27,7 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "https://some-endpoint.com/execute"
+            "url": "https://young-sands-78587.herokuapp.com/execute/index.php"
         }
     },
     "configurationArguments": {
