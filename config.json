@@ -17,9 +17,6 @@
             "inArguments": [
                 {
                     "emailAddress": "{{InteractionDefaults.Email}}"
-                },
-                {
-                    "phoneNumber": "{{Contact.Default.PhoneNumber}}"
                 }
             ],
             "outArguments": [
@@ -62,13 +59,6 @@
         "arguments": {
             "execute": {
                 "inArguments": [
-                    {
-                        "phoneNumber": {
-                            "dataType": "Phone",
-                            "isNullable": false,
-                            "direction": "in"   
-                        }
-                    },
                     {
                         "emailAddress": {
                             "dataType": "Email",
