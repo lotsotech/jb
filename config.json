@@ -24,22 +24,22 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "https://young-sands-78587.herokuapp.com/execute/index.php"
+            "url": "https://peaceful-taiga-46149.herokuapp.com/execute/index.php"
         }
     },
     "configurationArguments": {
        "applicationExtensionKey": "jbtracker",
        "save": {
-           "url": "URI/for/your/activity/save"
+           "url": "https://peaceful-taiga-46149.herokuapp.com/save"
        },
        "publish": {
-           "url": "URI/for/your/activity/publish"
+           "url": "https://peaceful-taiga-46149.herokuapp.com/publish"
        },
        "validate": {
-           "url": "URI/for/your/activity/validate"
+           "url": "https://peaceful-taiga-46149.herokuapp.com/validate"
        },
        "stop": {
-           "url": "URI/for/your/activity/stop"
+           "url": "https://peaceful-taiga-46149.herokuapp.com/stop"
        }
     },
     "wizardSteps": [
